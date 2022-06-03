@@ -1,3 +1,4 @@
 This is a text file that I am using to expore how file creation and editing works. This sentence has been added in new-branch.
 This is my first edit.
 Here is another edit. When I view this particular commit, this line will be highlighted showing that it was changed during this commit. Likewise, when I view the prior commit, line 2 is highlighted. Another edit was needed as this ended up all being on one line.
+This line has been added in new-branch2.
