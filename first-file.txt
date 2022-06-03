@@ -1,2 +1,3 @@
 This is a text file that I am using to expore how file creation and editing works.
 This is my first edit.
+Here is another edit. When I view this particular commit, this line and the following one will be highlighted showing that it was changed during this commit. Likewise, when I view the prior commit, line 2 is highlighted.
